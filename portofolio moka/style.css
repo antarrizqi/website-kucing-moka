@@ -1,0 +1,64 @@
+ul {
+    list-style: none;
+    text-align: center;
+    position: fixed;
+    padding-bottom: 30px;
+
+}
+
+
+
+
+li {
+
+    display: inline-block;
+    padding: 0%;
+    width: 100px;
+    text-align: center;
+    color: black;
+    vertical-align: center;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.gambar {
+    text-align: left;
+    margin-left: 100px;
+
+}
+
+.text {
+    text-align: left;
+
+}
+
+.ok {
+    align-items: center;
+    text-align: center;
+    margin-top: -205px;
+    margin-left: -80px;
+    margin-bottom: 80px;
+}
+
+.teks3 {
+    text-align: left;
+    margin-left: 320px;
+    margin-top: -50px;
+
+}
+
+.kuot {
+    margin-top: 25px;
+    position: center;
+    margin-left: 250px;
+    margin-bottom: 300px;
+
+
+}
+
+.okll {
+    text-align: left;
+
+}
